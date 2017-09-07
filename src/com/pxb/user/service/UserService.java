@@ -10,7 +10,7 @@ package com.pxb.user.service;
 
 /**  
  * @ClassName: UserService  
- * @Description: 用户服务层 
+ * @Description: 用户服务层  
  * @author panxiaobo  
  * @date 2017年9月7日 上午11:30:57  
  *    
